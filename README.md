@@ -20,7 +20,7 @@ To run the code and reproduce the analysis, you'll need the following dependenci
 
 The repository contains the following files:
 
-- `sentiment_analysis.py`: The main Python script that performs sentiment analysis on the love letters.
+- `sentiment_analysis.ipynb`: The Python notebook that performs sentiment analysis on the love letters.
 - `data/`: Directory containing the text files of Henry VIII's love letters to Anne Boleyn.
 - `README.md`: This file, providing an overview of the project.
 
